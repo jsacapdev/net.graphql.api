@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{8C0E3318-7DC7-45E5-A6C7-0B3AB47FCE79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "netgraphqlapi", "src\netgraphqlapi\netgraphqlapi.csproj", "{A2D2FE40-5000-40FB-A29F-B2FCE403740C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2D2FE40-5000-40FB-A29F-B2FCE403740C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2D2FE40-5000-40FB-A29F-B2FCE403740C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2D2FE40-5000-40FB-A29F-B2FCE403740C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2D2FE40-5000-40FB-A29F-B2FCE403740C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A2D2FE40-5000-40FB-A29F-B2FCE403740C} = {8C0E3318-7DC7-45E5-A6C7-0B3AB47FCE79}
+	EndGlobalSection
+EndGlobal
